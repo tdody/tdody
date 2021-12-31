@@ -5,7 +5,7 @@ I'm a **Data Scientist** living in Vermont 🏔. I’m currently working at [Far
 ### Connect with me:
 
 [<img align="left" alt="tdody.github.io" width="22px" src="https://raw.githubusercontent.com/tdody/tdody.github.io/master/assets/img/logo.png" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/tdody/tdody/master/static/linkedin-3-16%20blue.ico" />][linkedin]
 
 <br/>
 
