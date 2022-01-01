@@ -4,8 +4,7 @@ I'm a **Data Scientist** living in Vermont 🏔. I’m currently working at [Far
 
 ### Connect with me
 
-[<img align="left" alt="tdody.github.io" width="22px" src="https://raw.githubusercontent.com/tdody/tdody.github.io/master/assets/img/logo.png" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/tdody/tdody/c42c36910f037e6609fface40567446043a611f5/static/linkedin-4-32.ico" />][linkedin]
+<a href="https://tdody.github.io/" target="_blank" rel="noreferrer noopener"><img align="left" alt="tdody.github.io" width="22px" src="https://raw.githubusercontent.com/tdody/tdody.github.io/master/assets/img/logo.png"/></a> <a href="https://www.linkedin.com/in/thibault-dody/" target="_blank" rel="noreferrer noopener"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/tdody/tdody/c42c36910f037e6609fface40567446043a611f5/static/linkedin-4-32.ico"/></a>
 
 <br/>
 
@@ -17,6 +16,7 @@ I'm a **Data Scientist** living in Vermont 🏔. I’m currently working at [Far
 <img align="left" alt="Scikit-Learn" height="26px" style="background-color:white;" src="https://raw.githubusercontent.com/tdody/tdody/c42c36910f037e6609fface40567446043a611f5/static/scikitlearn.png" />
 <img align="left" alt="Tensorflow" height="26px" style="background-color:white;" src="https://raw.githubusercontent.com/tdody/tdody/c42c36910f037e6609fface40567446043a611f5/static/tensorflow.png" />
 <img align="left" alt="HuggingFace" height="26px" style="background-color:white;" src="https://raw.githubusercontent.com/tdody/tdody/c42c36910f037e6609fface40567446043a611f5/static/hugginface.png" />
+
 <img align="left" alt="Visual Studio Code" height="26px" style="background-color:white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -28,6 +28,17 @@ I'm a **Data Scientist** living in Vermont 🏔. I’m currently working at [Far
 <img align="left" alt="R" height="26px" style="background-color:white;" src="https://raw.githubusercontent.com/tdody/tdody/c42c36910f037e6609fface40567446043a611f5/static/Rlogo.svg" />
 <img align="left" alt="AWS" height="26px" style="background-color:white;" src="https://raw.githubusercontent.com/tdody/tdody/c42c36910f037e6609fface40567446043a611f5/static/aws.png" />
 <img align="left" alt="GCP" height="26px" style="background-color:white;" src="https://raw.githubusercontent.com/tdody/tdody/c42c36910f037e6609fface40567446043a611f5/static/gcp-logo-cloud.png" />
+
+<br />
+<br />
+
+---
+
+### 📕 Latest Posts and Projects
+- 🏔 [Explore the US National Parks with the help of machine learning](https://tdody.github.io//usaparks/)
+- 🎨 [Machine Learning vs. Art Styles](https://tdody.github.io//Style-Your-Art/)
+- 🌱 [Image classification of seedlings](https://tdody.github.io//Seedlings-Classification/)
+- 🤖 [Road to Deep Learning](https://tdody.github.io//Logistic-Regression/)
 
 [website]: https://tdody.github.io/
 [linkedin]: https://www.linkedin.com/in/thibault-dody/
