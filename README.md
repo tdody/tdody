@@ -4,7 +4,7 @@ I'm a **Data Scientist** living in Vermont 🏔. I’m currently working at [Far
 
 ### Connect with me
 
-<a href="https://tdody.github.io/" target="_blank" rel="noreferrer noopener"><img align="left" alt="tdody.github.io" width="22px" src="https://raw.githubusercontent.com/tdody/tdody.github.io/master/assets/img/logo.png"/></a> <a href="https://www.linkedin.com/in/thibault-dody/" target="_blank" rel="noreferrer noopener"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/tdody/tdody/c42c36910f037e6609fface40567446043a611f5/static/linkedin-4-32.ico"/></a>
+<a href="https://tdody.github.io/" target="_blank" rel="noopener noreferrer"><img align="left" alt="tdody.github.io" width="22px" src="https://raw.githubusercontent.com/tdody/tdody.github.io/master/assets/img/logo.png"/></a> <a href="https://www.linkedin.com/in/thibault-dody/" target="_blank" rel="noopener noreferrer"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/tdody/tdody/c42c36910f037e6609fface40567446043a611f5/static/linkedin-4-32.ico"/></a>
 
 <br/>
 
@@ -35,10 +35,10 @@ I'm a **Data Scientist** living in Vermont 🏔. I’m currently working at [Far
 ---
 
 ### 📕 Latest Posts and Projects
-- 🏔 <a href="https://tdody.github.io//usaparks/" target="_blank" rel="noreferrer noopener">Explore the US National Parks with the help of machine learning</a>
-- 🎨 <a href="https://tdody.github.io//Style-Your-Art/" target="_blank" rel="noreferrer noopener">Machine Learning vs. Art Styles</a>
-- 🌱 <a href="https://tdody.github.io//Seedlings-Classification/" target="_blank" rel="noreferrer noopener">Image classification of seedlings</a>
-- 🤖 <a href="https://tdody.github.io//Logistic-Regression/" target="_blank" rel="noreferrer noopener">Road to Deep Learning</a>
+- 🏔 <a href="https://tdody.github.io//usaparks/" target="_blank" rel="noopener noreferrer">Explore the US National Parks with the help of machine learning</a>
+- 🎨 <a href="https://tdody.github.io//Style-Your-Art/" target="_blank" rel="noopener noreferrer">Machine Learning vs. Art Styles</a>
+- 🌱 <a href="https://tdody.github.io//Seedlings-Classification/" target="_blank" rel="noopener noreferrer">Image classification of seedlings</a>
+- 🤖 <a href="https://tdody.github.io//Logistic-Regression/" target="_blank" rel="noopener noreferrer">Road to Deep Learning</a>
 
 [website]: https://tdody.github.io/
 [linkedin]: https://www.linkedin.com/in/thibault-dody/
