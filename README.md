@@ -35,10 +35,10 @@ I'm a **Data Scientist** living in Vermont 🏔. I’m currently working at [Far
 ---
 
 ### 📕 Latest Posts and Projects
-- 🏔 [Explore the US National Parks with the help of machine learning](https://tdody.github.io//usaparks/)
-- 🎨 [Machine Learning vs. Art Styles](https://tdody.github.io//Style-Your-Art/)
-- 🌱 [Image classification of seedlings](https://tdody.github.io//Seedlings-Classification/)
-- 🤖 [Road to Deep Learning](https://tdody.github.io//Logistic-Regression/)
+- 🏔 <a href="https://tdody.github.io//usaparks/" target="_blank" rel="noreferrer noopener">Explore the US National Parks with the help of machine learning</a>
+- 🎨 <a href="https://tdody.github.io//Style-Your-Art/" target="_blank" rel="noreferrer noopener">Machine Learning vs. Art Styles</a>
+- 🌱 <a href="https://tdody.github.io//Seedlings-Classification/" target="_blank" rel="noreferrer noopener">Image classification of seedlings</a>
+- 🤖 <a href="https://tdody.github.io//Logistic-Regression/" target="_blank" rel="noreferrer noopener">Road to Deep Learning</a>
 
 [website]: https://tdody.github.io/
 [linkedin]: https://www.linkedin.com/in/thibault-dody/
