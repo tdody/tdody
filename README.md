@@ -43,3 +43,7 @@ I'm a **Data Scientist** living in Vermont 🏔. I’m currently working at [Far
 [website]: https://tdody.github.io/
 [linkedin]: https://www.linkedin.com/in/thibault-dody/
 [faraday]: https://faraday.ai/
+
+
+### Contributions
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tdody)](https://git.io/streak-stats)
