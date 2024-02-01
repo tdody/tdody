@@ -1,12 +1,28 @@
 ### Hi there, I'm Thibault 👋
 
-I'm a **Data Scientist** living in Vermont 🏔. I’m currently working at [Faraday][faraday].
+I'm a **Senior Data Scientist** 4 years of experiece and currently living in Vermont 🏔.   
+I’m currently working at [Faraday][faraday] where I develop model to predict consumer behavior.  
 
 ### Connect with me
 
 <a href="https://tdody.github.io/" target="_blank" rel="noopener noreferrer"><img align="left" alt="tdody.github.io" width="22px" src="https://raw.githubusercontent.com/tdody/tdody.github.io/master/assets/img/logo.png"/></a> <a href="https://www.linkedin.com/in/thibault-dody/" target="_blank" rel="noopener noreferrer"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/tdody/tdody/c42c36910f037e6609fface40567446043a611f5/static/linkedin-4-32.ico"/></a>
 
 <br/>
+
+---
+
+### 🧠 Profesional Posts and Projects  
+- 📈 <a href="https://faraday.ai/blog/propensity-vs-probability-predictions" rel="noopener noreferrer">Propensity vs probability: Understanding the difference between raw scores and probabilities</a>  
+- ⚖️ <a href="https://faraday.ai/blog/faraday-bias-reporting" rel="noopener noreferrer">Faraday bias reporting: How we measure & report on bias</a>  
+
+
+### 📕 Personal Posts and Projects  
+- 🏔 <a href="https://tdody.github.io//usaparks/" target="_blank" rel="noopener noreferrer">Explore the US National Parks with the help of machine learning</a>
+- 🎨 <a href="https://tdody.github.io//Style-Your-Art/" target="_blank" rel="noopener noreferrer">Machine Learning vs. Art Styles</a>
+- 🌱 <a href="https://tdody.github.io//Seedlings-Classification/" target="_blank" rel="noopener noreferrer">Image classification of seedlings</a>
+- 🤖 <a href="https://tdody.github.io//Logistic-Regression/" target="_blank" rel="noopener noreferrer">Road to Deep Learning</a>
+
+---
 
 ### Languages and Tools
 
@@ -32,13 +48,7 @@ I'm a **Data Scientist** living in Vermont 🏔. I’m currently working at [Far
 <br />
 <br />
 
----
 
-### 📕 Latest Posts and Projects
-- 🏔 <a href="https://tdody.github.io//usaparks/" target="_blank" rel="noopener noreferrer">Explore the US National Parks with the help of machine learning</a>
-- 🎨 <a href="https://tdody.github.io//Style-Your-Art/" target="_blank" rel="noopener noreferrer">Machine Learning vs. Art Styles</a>
-- 🌱 <a href="https://tdody.github.io//Seedlings-Classification/" target="_blank" rel="noopener noreferrer">Image classification of seedlings</a>
-- 🤖 <a href="https://tdody.github.io//Logistic-Regression/" target="_blank" rel="noopener noreferrer">Road to Deep Learning</a>
 
 [website]: https://tdody.github.io/
 [linkedin]: https://www.linkedin.com/in/thibault-dody/
