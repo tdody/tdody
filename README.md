@@ -1,6 +1,6 @@
 ### Hi there, I'm Thibault 👋
 
-I'm a **Senior Data Scientist** 4 years of experience and currently living in Vermont 🏔.   
+I'm a **Senior Data Scientist** living in Vermont 🏔.   
 I’m currently working at [Faraday][faraday] where I develop models to predict consumer behavior.  
 
 ### Connect with me
