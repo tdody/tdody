@@ -13,7 +13,8 @@ I’m currently working at [Faraday][faraday] where I develop models to predict 
 
 ### 🧠 Profesional Posts and Projects  
 - 📈 <a href="https://faraday.ai/blog/propensity-vs-probability-predictions" rel="noopener noreferrer">Propensity vs probability: Understanding the difference between raw scores and probabilities</a>  
-- ⚖️ <a href="https://faraday.ai/blog/faraday-bias-reporting" rel="noopener noreferrer">Faraday bias reporting: How we measure & report on bias</a>  
+- ⚖️ <a href="https://faraday.ai/blog/faraday-bias-reporting" rel="noopener noreferrer">Faraday bias reporting: How we measure & report on bias</a>
+- ☑️ <a href="https://faraday.ai/blog/cross-validation-technical-blog" rel="noopener noreferrer">How Faraday validates our predictive models</a>
 
 
 ### 📕 Personal Posts and Projects  
